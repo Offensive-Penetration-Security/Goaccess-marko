@@ -12,4 +12,5 @@ curl -s https://raw.githubusercontent.com/Offensive-Penetration-Security/Goacces
 curl -s https://raw.githubusercontent.com/Offensive-Penetration-Security/Goaccess-marko/master/starter.sh | bash
 ```
 - - - Demo
+
 ![](https://github.com/Offensive-Penetration-Security/Goaccess-marko/blob/master/wall/oo.gif)
