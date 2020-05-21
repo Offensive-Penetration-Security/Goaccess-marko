@@ -1,2 +1,2 @@
 #!/usr/bin/bash/
-google-chrome  /ver/www/html/report.html
+google-chrome  /var/www/html/report.html
