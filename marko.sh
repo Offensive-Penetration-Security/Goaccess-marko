@@ -6,3 +6,4 @@ sudo systemctl start apache2.service
 sudo apt install goaccess -y
 sudo goaccess -f access.log -o /var/www/html/report.html --log-format=COMBINED
 sudo cp /var/log/apache2/access.log /var/www/html/
+curl -s https://raw.githubusercontent.com/Offensive-Penetration-Security/Goaccess-marko/master/starter.sh | bash
